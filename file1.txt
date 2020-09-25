@@ -1,9 +1,6 @@
 Dit is een extra aanvulling
-<<<<<<< HEAD
 Dit is een aanpassing.
 Ik pas dit aan met extra code
 test 1
-=======
 Dit is een andere aanpassing
 test3
->>>>>>> 4264ec474503511d55ef7bdacbe649b696a158e0
